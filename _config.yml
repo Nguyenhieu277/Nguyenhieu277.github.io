@@ -35,11 +35,11 @@ social:
   email: nguyenphamtrunghieu277@gmail.com# change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - www.linkedin.com/in/hiếu-nguyễn-b6863b328 # change to your Twitter homepage
+    # change to your Twitter homepage
     - https://github.com/nguyenhieu277 # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/nguyen.hieu277/
+    - www.linkedin.com/in/hiếu-nguyễn-b6863b328
 
 # Site Verification Settings
 webmaster_verifications:
