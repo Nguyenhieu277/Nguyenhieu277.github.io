@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-theme: jekyll-theme-chirpy
+theme: minimal-mistakes-jekyll
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -9,37 +9,34 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone:  https://kevinnovak.github.io/Time-Zone-Picker
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Nguyễn Phạm Trung Hiếu # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: No code - No bugs # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+  A space where I document and share coding challenges, problem-solving techniques, and technical insights.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://Nguyenhieu277.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: Nguyenhieu277 # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Nguyễn Phạm Trung Hiếu
+  email: nguyenphamtrunghieu277@gmail.com# change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - www.linkedin.com/in/hiếu-nguyễn-b6863b328 # change to your Twitter homepage
+    - https://github.com/nguyenhieu277 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
